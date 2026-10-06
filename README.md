@@ -614,4 +614,25 @@ Before redistributing code, model weights, or derived datasets, verify the licen
 * Other third-party dependencies
 
 ---
+# 👨‍💻 Project Status
+
+<p align="center">
+
+### 🚧 Currently in Development
+
+**Baseline reproduction → Improvements → Ablation → Evaluation**
+
+</p>
+
+This repository is an ongoing research project. Experimental results marked **TBD** will be updated as experiments are completed.
+
+---
+
+<p align="center">
+
+**🧠 FetalBrain-UAD+**
+
+*Diffusion-based unsupervised anomaly detection for fetal brain ultrasound*
+
+</p>
 
